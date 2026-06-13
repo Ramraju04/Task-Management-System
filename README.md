@@ -252,10 +252,10 @@ Contributions are welcome! Please follow these steps:
 
 ## 👨‍💻 Author
 
-**Sankavaram Rama Krishna**
-- GitHub: [ramakrishnasankavaram](https://github.com/ramakrishnasankavaram)
-- LinkedIn: [Sankavaram Rama Krishna](https://www.linkedin.com/in/sankavaram-rama-krishna-bb93aa254/)
-- Email: ramakrishnasankavaram436@gmail.com
+**Bodda Ramaraju**
+- GitHub: [Ramraju04](https://github.com/Ramraju04)
+- LinkedIn: [Bodda Ramaraju](https://www.linkedin.com/in/ramaraju-bodda-b44754266)
+- Email: ramarajubodda49@gmail.com
 
 
 ---
