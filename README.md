@@ -18,22 +18,6 @@ A professional, full-stack web application for managing tasks efficiently. Built
 - ✅ **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - ✅ **Clean UI/UX** - Modern interface with Bootstrap 5 and Font Awesome icons
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Tasks Management
-![Tasks Screenshot](screenshots/tasks.png)
-
-### Register Page
-![Login Screenshot](screenshots/register.png)
-
-### Login Page
-![Login Screenshot](screenshots/login.png)
-
-### Profile Page
-![Login Screenshot](screenshots/profile.png)
 
 ## 🛠️ Technologies Used
 
